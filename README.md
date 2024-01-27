@@ -1,5 +1,5 @@
 # React-Website-Anydo
-## [Demo Game](https://react-website-anydo.vercel.app/) [VPN]
+## [Demo Project](https://react-website-anydo.vercel.app/) [VPN]
 
 ![Andyweb](https://github.com/p-stn/React-website-Anydo/assets/63667741/728dcefa-2dfa-4f5e-ab2d-3732f2e5b1cf)
 
